@@ -1,0 +1,25 @@
+
+h3{
+    color: aqua;
+    text-decoration: underline yellow;
+}
+p{
+    color: brown;
+}
+li{
+    color: blueviolet;
+    background-color: blue;
+    width: 50%;
+    text-align: center;
+    background-image: url(../Pic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+a{
+    text-decoration: none;
+}
+header{
+    color: blue;
+}
